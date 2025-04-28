@@ -137,7 +137,23 @@ bash validate_and_coverage.sh
 
 ## Capturas de pantalla
 
-| Welcome | Nueva Reserva | Reservas |
-| ------- | ------------- | -------- |
-|         |               |          |
+# WEB - APP
 
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 51 02 p m" src="https://github.com/user-attachments/assets/11ffd9d1-8660-49f5-aad3-b1b4df39cef0" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 57 29 p m" src="https://github.com/user-attachments/assets/324d97bf-4df7-4c70-b05a-3015e5e96108" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 57 24 p m" src="https://github.com/user-attachments/assets/4908b7d7-3ef0-4073-9100-b266b9dbc03c" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 57 10 p m" src="https://github.com/user-attachments/assets/924f5383-0837-4d0d-a928-9f2c7b8ef808" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 57 03 p m" src="https://github.com/user-attachments/assets/cfb83025-6a30-4dc4-9cdb-3d90dc18a61e" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 56 52 p m" src="https://github.com/user-attachments/assets/c3c32875-42db-4530-a392-b2dafeeb2806" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 56 43 p m" src="https://github.com/user-attachments/assets/c598adab-4561-4b6e-b295-020f8d41cd0a" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 51 17 p m" src="https://github.com/user-attachments/assets/9014b4ec-08be-4c3c-9a52-f24285625e4a" />
+<img width="1710" alt="Captura de pantalla 2025-04-27 a la(s) 8 51 09 p m" src="https://github.com/user-attachments/assets/242f0e1f-b49d-48cf-836a-ddc751ac67df" />
+
+# ANDROID - APP
+![Screenshot_20250427_210324](https://github.com/user-attachments/assets/ac71e836-2f91-4eb7-b57c-a8215f502b26)
+![Screenshot_20250427_210318](https://github.com/user-attachments/assets/4ccf4c62-7812-4331-aa1d-1f1af1001ae9)
+![Screenshot_20250427_210307](https://github.com/user-attachments/assets/06ed3c39-d53c-4092-a702-7ff73ff8330b)
+![Screenshot_20250427_210258](https://github.com/user-attachments/assets/63de37b1-0022-4164-a4fc-a7910e4f9a51)
+![Screenshot_20250427_210213](https://github.com/user-attachments/assets/1ad10e8f-6e8d-4930-9ab0-9f7dc1671674)
+![Screenshot_20250427_210127](https://github.com/user-attachments/assets/eb0c204d-afdc-4c93-aa59-10326656c83b)
+![Screenshot_20250427_210053](https://github.com/user-attachments/assets/3b492cea-decf-47f9-8e3e-cbe1b0a2cee4)
